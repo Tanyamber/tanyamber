@@ -1,6 +1,6 @@
 # Hi there, I'm Tanya Amber 👋
 
-## Data Analyst | Analytics Engineer (Aspiring) | Data Engineering Enthusiast
+## Data Analyst | Analytics Engineer | Data Engineering Enthusiast
 
 I'm an experienced IT professional with **4 years of experience at Infosys**, where I worked on enterprise banking projects for **Bank of Baroda, ING, and ANZ**.
 
@@ -113,7 +113,7 @@ https://github.com/Tanyamber/uk-financial-data-pipeline
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/Tanyamber
-- LinkedIn: *(Coming Soon)*
+- LinkedIn: https://www.linkedin.com/in/tanya-amber/
 
 ---
 
